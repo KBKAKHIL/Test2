@@ -16,4 +16,26 @@ public class ExampleUnitTest {
     public void addition_isCorrect() {
         assertEquals(4, 2 + 2);
     }
+
+    //implementing logic for this "Infection calculator App"
+    //R1 number of days must be > 0
+    //R2 to check that the virus infects 5 instructors per day
+    //R3 to check if infection changes to 8 per day after 7 days
+    //R4 to check given people are at college
+
+
+    @Test
+    public void numberofDays(){
+//        int numberofDays = infection.calculateTotalInfected;
+//        if
+
+
+
+    }
+
+
+
+
+
+
 }
