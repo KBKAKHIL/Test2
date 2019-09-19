@@ -28,6 +28,7 @@ public class ExampleUnitTest {
     public void numberofDays(){
 //        int numberofDays = infection.calculateTotalInfected;
 //        if
+        assertEquals("number of days > 0", infection.i);
 
 
 
